@@ -1,5 +1,5 @@
 # Computer-Vison
-Resolution Refinement for Enlarged Scale Images Using GANs 
+ 
 Recent innovations in Deep Learning (DL) and Convolutional Neural Network (CNN) in computer vision 
 has enabled us to develop sophisticated methods to improve traditional approaches.
 Based on CIFAR10 dataset,I developed a novel method in order to get high resolution version of enlarged 
