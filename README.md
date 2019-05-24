@@ -7,4 +7,4 @@ scale images from low scale images by applying unsupervised deep learning approa
 The idea is that based on Generative Adversarial Networks (GANs) we assume the input for
 Generator network is sequences of low scale (e.g 8 x 8) images and in GANs the Generator part generates some random
 noisy higher scale images (e.g 32 x 32) for each input image and the Discriminator based on the original
-images(32 x 32) detects the desired image among the generated random noisy images. 
+images detects the desired image among the generated random noisy images. 
