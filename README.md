@@ -8,3 +8,6 @@ The idea is that based on Generative Adversarial Networks (GANs) we assume the i
 Generator network is sequences of low scale (e.g 8 x 8) images and in GANs the Generator part generates some random
 noisy higher scale images (e.g 32 x 32) for each input image and the Discriminator based on the original
 images detects the desired image among the generated random noisy images. 
+
+After cloning code please download CIFAR-10 dataset from: https://www.cs.toronto.edu/~kriz/cifar.html
+(CIFAR-100 python version), and extract dataset in code folder.
