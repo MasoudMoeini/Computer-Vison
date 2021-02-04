@@ -21,3 +21,5 @@ Recent innovations in Deep Learning (DL) and Convolutional Neural Networks (CNN)
 <img width="629" alt="Screenshot 2021-02-04 at 12 52 21" src="https://user-images.githubusercontent.com/43514418/106889218-fcd18480-66e7-11eb-9934-a753fada5708.png">
 <br/>
 <img width="575" alt="Screenshot 2021-02-04 at 12 52 43" src="https://user-images.githubusercontent.com/43514418/106889219-fd6a1b00-66e7-11eb-8f25-462582d73695.png">
+<br/>
+<img width="815" alt="Screenshot 2021-02-04 at 13 17 51" src="https://user-images.githubusercontent.com/43514418/106891818-859def80-66eb-11eb-85a8-71f318f9773a.png">
