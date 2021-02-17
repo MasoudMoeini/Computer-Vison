@@ -8,7 +8,7 @@
 2) Run file: **[IRgans.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/IRgans.ipynb)**  to extract input images from encoded data set for GANs model.<br>
 3) Run Main file: **[FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)**<br>
 
-**please do not hesistate to share with me your constructive criticisms "Masoud.Moeini@Studium.uni-hamburg.de".** 
+**Please do not hesistate to share with me your constructive criticisms "Masoud.Moeini@Studium.uni-hamburg.de".** 
 
 
 # Paper Abstract:<br/>
