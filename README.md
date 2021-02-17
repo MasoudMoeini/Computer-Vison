@@ -1,6 +1,6 @@
-# Resolution Refinement for Enlarged Scale Images Using GANs
-Click on:<br/>
-**- FinalEvaluation_Main.ipynb** file to see prediction model with GANs(two stream of CNN using tensorflow) and visulization.
+# Resolution Refinement for Enlarged Scale Images Using Generative Adversarial Networks (GANs)
+**Click on:**<br/>
+**- [FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)** file to see prediction model with GANs(two stream of CNN using tensorflow) and visulization.
 <br/>
 <br/>
 If you are Intereseted to run the repository locally in your pc, make sure that you have already installed  jupyter nootbook and necessary python libraries. <br/>
