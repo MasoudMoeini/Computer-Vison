@@ -1,9 +1,9 @@
 # Resolution Refinement for Enlarged Scale Images Using Generative Adversarial Networks (GANs)
 **Click on:**<br/>
-**- [FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)** file to see prediction model with GANs(two stream of CNN using tensorflow) and visulization.
+**- [FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)** file to see prediction model with GANs (two parallel CNN streams) and visulizations.
 <br/>
 <br/>
-If you are Intereseted to run the repository locally in your pc, make sure that you have already installed  jupyter nootbook and necessary python libraries. <br/>
+**If you are Intereseted to run the repository locally in your pc, make sure that you have already installed  jupyter nootbook and necessary python libraries.** <br/>
 1) Clone repository (Reference dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) has already been downloaded and accommodated in repository) <br/>
 2) Run file: **[IRgans.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/IRgans.ipynb)**  to extract input images from encoded data set for GANs model.<br>
 3) Run Main file: **[FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)**<br>
