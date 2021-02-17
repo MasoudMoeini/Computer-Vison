@@ -4,11 +4,11 @@ Click on:<br/>
 <br/>
 <br/>
 If you are Intereseted to run the repository locally in your pc, make sure that you have already installed  jupyter nootbook and necessary python libraries. <br/>
-1) Clone repository (Reference dataset CIFAR-10 https://www.cs.toronto.edu/~kriz/cifar.html has already been downloaded and is accessible in repository) <br/>
-2) Run file: **IRgan.ipynb**  to extract input images from dataset for purposed GANs model.<br>
-3) Run Main file: **FinalEvaluation_Main.ipynb**<br>
+1) Clone repository (Reference dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) has already been downloaded and accommodated in repository) <br/>
+2) Run file: **[IRgans.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/IRgans.ipynb)**  to extract input images from encoded data set for GANs model.<br>
+3) Run Main file: **[FinalEvaluation_Main.ipynb](https://github.com/MasoudMoeini/Computer-Vison/blob/master/FinalEvaluation_Main.ipynb)**<br>
 
-**please do not hesistate to share with me your constructive criticisms (Masoud.Moeini@Studium.uni-hamburg.de).** 
+**please do not hesistate to share with me your constructive criticisms "Masoud.Moeini@Studium.uni-hamburg.de".** 
 
 
 # Paper Abstract:<br/>
